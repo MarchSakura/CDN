@@ -1,0 +1,35 @@
+" 去掉vi一致性模式
+set nocompatible
+
+" 配置backspace键
+set backspace=indent,eol,start
+
+" 总是显示状态行
+set laststatus=2
+
+" 显示未输入完指令的完整形式
+set showcmd
+
+" 显示行号
+set number
+
+" 显示匹配行高亮
+set showmatch
+
+" 光标立即跳跃到搜索的内容
+set incsearch
+
+" 搜索匹配到最后一项, 再次搜索回到第一项
+set wrapscan
+
+" 去掉输入错误提示音
+set noeb
+
+" 设置鼠标为普通模式
+set mouse=n
+
+" 语法高亮
+syntax enable
+
+
+
