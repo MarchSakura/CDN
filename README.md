@@ -9,5 +9,5 @@ The CDN repo is for managing my config files and image hosting.
 To get the configure file in folder ```config_file```:
 
 ```bash
-wget https://cdn.jsdelivr.net/gh/MarchSakura/CDN/config_file/tmux.conf -O ~/.tmux.conf
+wget https://cdn.jsdelivr.net/gh/MarchSakura/CDN@1.0/config_file/tmux.conf -O ~/.tmux.conf
 ```
