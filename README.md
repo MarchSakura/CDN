@@ -2,7 +2,7 @@ Based on [jsDelivr](https://www.jsdelivr.com/) CDN, which is a free CDN for Open
 
 The CDN repo is for managing my config files and image hosting.
 
-> :warning: **There is an incalculable delay in updating file content by jsDelivr.** 
+> :warning: **for performance reasons, jsDelivr will continue serving data from our cache**
 
 # example 
 
